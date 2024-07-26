@@ -51,12 +51,6 @@ Experienced iOS Developer with a demonstrated history of working on large-scale 
 - Developed the Kavenegar Call iOS SDK using WebRTC and WebSocket.
 - Implemented CallKit and Apple Push Notification for enhanced communication features.
 
-## Education
-
-### Qazvin Islamic Azad University
-*2013 - 2015*  
-**Computer Software Engineering**
-
 ## Skills
 
 - Swift Programming Language
