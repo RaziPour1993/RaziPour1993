@@ -2,8 +2,14 @@
 
 Experienced iOS Developer with a demonstrated history of working on large-scale applications and enhancing user experiences. Skilled in Swift, SwiftUI, and various design patterns to develop high-quality software. Committed to continuous learning and delivering innovative mobile solutions. Passionate about leveraging cutting-edge technologies to solve complex problems.
 
-📞 **Phone:** +989031811580  
-📧 **Email:** [razipour1993@gmail.com](mailto:razipour1993@gmail.com)
+📧 **Email:** [razipour1993@gmail.com](mailto:razipour1993@gmail.com)  
+🌐 **Resume:** [razipour.ir](https://razipour.ir)
+
+## Connect with me
+- [Stack Overflow](https://stackoverflow.com/users/4493995/mohammad-razipour)
+- [Medium](https://medium.com/@razipour1993)
+- [LinkedIn](https://www.linkedin.com/in/razipour1993/)
+- [Twitter](https://twitter.com/razipour1993)
 
 ## Work Experience
 
@@ -63,5 +69,4 @@ Experienced iOS Developer with a demonstrated history of working on large-scale 
 - UIKit
 - Git VCS
 - UI-Unit Testing
-- WebRTC
-- Objective-C Programming Language
+- W
