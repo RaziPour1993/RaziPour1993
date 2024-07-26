@@ -17,11 +17,11 @@ I’m an iOS Developer with a passion for crafting seamless and innovative mobil
 
 ## 📚 Skills
 
-- **Swift & SwiftUI**
+- **Swift & Objective-C**
+- **SwiftUI & UIKit**
 - **Combine Framework**
-- **Design Patterns & Architecture (MVVM, Coordinator)**
-- **UIKit & UI-Unit Testing**
-- **WebRTC & Objective-C**
+- **Design Patterns & Architecture & SOLID Principles**
+- **Protocol Oriented Programming & Object Oriented Programming**
 
 ## 🌐 Find Me Online
 
