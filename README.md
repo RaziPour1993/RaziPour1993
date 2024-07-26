@@ -14,6 +14,7 @@ I’m an iOS Developer with a passion for crafting seamless and innovative mobil
 - **AvidWorkouts**: Modernized an Objective-C app by converting it to Swift and enhancing functionality.
 - **Cafe Bazaar**: Contributed to the Divar app, mastering large-scale app maintenance and development.
 - **Kavenegar**: Developed an iOS SDK using WebRTC and WebSocket for advanced communication features.
+- **Ghasedak ICT**: Developed and maintained various applications, enhancing stability and performance across diverse domains.
 
 ## 📚 Skills
 
