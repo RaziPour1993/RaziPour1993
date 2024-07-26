@@ -35,6 +35,3 @@ I’m an iOS Developer with a passion for crafting seamless and innovative mobil
 ## 📈 Let’s Connect!
 
 I’m always open to discussing new projects or opportunities. Feel free to reach out via [email](mailto:razipour1993@gmail.com)!
-
----
-*Crafted with passion for technology and innovation.*
