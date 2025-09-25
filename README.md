@@ -18,11 +18,10 @@ I’m a Software Developer with experience in iOS and Frontend Web Development. 
 
 ## 📚 Skills
 
-- **iOS: Swift, SwiftUI, UIKit, Combine**
-- **Frontend: React, JavaScript, HTML, CSS**
-- **Combine Framework**
-- **Software Design: Architecture, Design Patterns, SOLID Principles**
-- **Programming Paradigms: OOP & POP**
+- **iOS**: Swift, SwiftUI, UIKit, Combine
+- **Frontend**: React, JavaScript, HTML, CSS
+- **Software Design**: Architecture, Design Patterns, SOLID Principles
+- **Programming Paradigms**: OOP & POP
 
 ## 🌐 Find Me Online
 
