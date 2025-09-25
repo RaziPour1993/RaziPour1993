@@ -1,16 +1,16 @@
 # 👋 Hello, I'm Mohammad Razipour
 
-I’m an iOS Developer with a passion for crafting seamless and innovative mobile experiences. With hands-on expertise in Swift, SwiftUI, and a knack for problem-solving, I thrive on transforming complex challenges into elegant solutions.
+I’m a Software Developer with experience in iOS and Frontend Web Development. I enjoy solving problems, working in teams, and building products that people love. I’m always learning new technologies to grow my skills and help my team succeed.
 
 ## 🚀 What I Do
 
-- **Develop & Maintain**: Building and optimizing iOS applications for top-notch performance and user experience.
-- **Innovate**: Implementing cutting-edge features and staying ahead with the latest technologies.
-- **Collaborate**: Working closely with designers, developers, and stakeholders to deliver high-quality software.
+- **iOS Development**: Building and maintaining apps with Swift, SwiftUI, and modern architectures.
+- **Frontend Development**: Learning and working with React and web technologies to expand my skills.
+- **Team Collaboration**: Working closely with designers, developers, and product teams to deliver high-quality software.
 
 ## 🌟 Highlights
 
-- **Football360**: Leading the development of a sports app with Swift, SwiftUI, and Combine.
+- **Football360**: iOS Engineer and now part of the frontend web team.
 - **AvidWorkouts**: Modernized an Objective-C app by converting it to Swift and enhancing functionality.
 - **Cafe Bazaar**: Contributed to the Divar app, mastering large-scale app maintenance and development.
 - **Kavenegar**: Developed an iOS SDK using WebRTC and WebSocket for advanced communication features.
@@ -18,11 +18,11 @@ I’m an iOS Developer with a passion for crafting seamless and innovative mobil
 
 ## 📚 Skills
 
-- **Swift & Objective-C**
-- **SwiftUI & UIKit**
+- **iOS: Swift, SwiftUI, UIKit, Combine**
+- **Frontend: React, JavaScript, HTML, CSS**
 - **Combine Framework**
-- **Design Patterns & Architecture & SOLID Principles**
-- **Protocol Oriented Programming & Object Oriented Programming**
+- **Software Design: Architecture, Design Patterns, SOLID Principles**
+- **Programming Paradigms: OOP & POP**
 
 ## 🌐 Find Me Online
 
